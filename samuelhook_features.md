@@ -1,35 +1,4 @@
-# Criminality
-
-[Aim settings]
-  * Silent aim (With fov size, fov sides, fov transparency, aim hitbox, etc.)
-  * Wallbang (Shoots through 1-2 walls, not through the whole map)
-  * Auto shoot (Kind of scuffed)
-
-[Combat]
-  * Killaura (With range options)
-  * Auto finish (Auto stomps the player for you)
-  * Infinite block (Blocks infinitely when near players)
-  * Triggerbot (Automatically fires at your target)
-  * Pepperspray aura (Hits player with pepperspray infinitely)
-  * Whitelist friends (For all combat related features)
-  * Hitbox expander (Makes it easier to hit your opponent, w/ Hitbox amount)
-
-[Gun modifications]
-  * No recoil (Makes your gun have no recoil)
-  * No spread (Makes your gun have no spread)
-  * Instant aim (ADS instantly)
-  * Auto revolver (So you don't have to tick the revolver, it'll just shoot)
-  * Instant equip (Instantly equips your weapon)
-  * Bullet Color (Gun has custom bullet color)
-  * No bullet drop (Removes the drop on your gun)
-
-[Character]
-  * Walkspeed (With walkspeed amount)
-  * Jumppower (With jumppower amount)
-  * Field of view (With field of view amount)
-  * Anti fire (Stops you from continuing to burn after you step out of the fire)
-  * Fullbright (Brightens everything within the game so you can see)
-  * Infinite stamina (Lets you run as long as you want/Hit as long as you want)
+run as long as you want/Hit as long as you want)
   * No smoke (Removes smokes whenever thrown)
   * No flash (Removes the flash effects whenever flashed)
   * No jump cooldown (Removes the jump cooldown within the game)
