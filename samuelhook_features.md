@@ -1,4 +1,5 @@
-# Criminality
+
+
 
 [Aim settings]
   * Silent aim (With fov size, fov sides, fov transparency, aim hitbox, etc.)
